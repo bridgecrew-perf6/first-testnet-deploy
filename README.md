@@ -6,7 +6,7 @@ VERY simple smart contract that I created in order to learn how to manually depl
 
 ## Deployment:
 
-Contract was deployed on the Kovan test network.
+Contract was deployed on the Kovan test network. </br>
 Contract Address: 0x15EA2F65225267906465c30D9FA84e8ADD7dF2C9
 
 ## Goal of Project
