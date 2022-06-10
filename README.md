@@ -6,7 +6,7 @@ VERY simple Solidity smart contract that I created in order to learn how to manu
 
 ## Deployment:
 
-Contract was deployed on the Kovan test network. </br>
+Contract was deployed on the Kovan test network. I had extra ETH on Kovan, that's why I used it. </br>
 Contract Address: 0x15EA2F65225267906465c30D9FA84e8ADD7dF2C9
 
 ## Goal of Project
